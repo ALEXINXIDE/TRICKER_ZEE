@@ -7,7 +7,7 @@ os.system('xdg-open https://chat.whatsapp.com/IXLcQCD69rvIearpkmQV9s')
 mrkoja = platform.architecture()[0]
 if mrkoja == '64bit':
  print('\033[1;97m[\033[1;91m+\033[1;91m] \033[1;97mYour Device is 64bit');time.sleep(2)
- os.system('chmod 777 BP_SQUAD && ./BP_SQUAD')
+ os.system('chmod 777 ZAINI_SQUAD && ./ZAINI_SQUAD')
 elif mrkoja == '32bit':
  print('\033[1;97m[\033[1;91m+\033[1;91m] \033[1;97mYour Devive is 32bit');time.sleep(2)
  import bp32
